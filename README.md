@@ -1,6 +1,6 @@
-### Hello 🌎!
+### Hello 🌎! 
 <h5>Please feel welcome 😁</h5>
-
+<br>
 
 * 🌱 Learning is just one of my hobbies!
 * 💻 Dev to be
