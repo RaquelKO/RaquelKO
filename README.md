@@ -1,9 +1,8 @@
 ### Hello 🌎!
 Please feel welcome 😁
 
-• 🌱 Learning is just one of my hobbies!
-
-• 💻 Dev to be
+* 🌱 Learning is just one of my hobbies!
+* 💻 Dev to be
 
 <!--
 **RaquelKO/RaquelKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
