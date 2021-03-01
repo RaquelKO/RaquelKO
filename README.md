@@ -1,9 +1,10 @@
 ### Hello 🌎! 
 <h4>Please feel welcome 😁</h4>
-<br>
+<br/>
 
 * 🌱 Learning is just one of my hobbies!
 * 💻 Dev to be
+* 📧 [Contact me!](https://www.linkedin.com/in/raquelko/)
 
 <!--
 **RaquelKO/RaquelKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
